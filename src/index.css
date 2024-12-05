@@ -1,0 +1,13 @@
+/*   BASIC CSS   */
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&family=Lobster&family=Lora:ital,wght@0,400..700;1,400..700&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #ECDFCC;
+  font-family: "Playfair Display", serif;
+  overflow-x: auto;
+}
